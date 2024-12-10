@@ -15,7 +15,7 @@ import { ShoppingBag, Menu, X } from 'lucide-react';
           
           <div className="hidden md:flex items-center space-x-8">
             <a href="#products" className="text-gray-700 hover:text-blue-600">Products</a>
-            <a href="#contact" className="text-gray-700 hover:text-blue-600">Contact</a>
+            {/* <a href="#contact" className="text-gray-700 hover:text-blue-600">Contact</a> */}
           </div>
 
           <div className="md:hidden flex items-center">

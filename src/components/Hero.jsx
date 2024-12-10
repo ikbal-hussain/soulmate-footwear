@@ -2,7 +2,7 @@ import React from 'react';
 
  function Hero() {
   return (
-    <div className="relative bg-gray-900 h-[60vh]">
+    <div id='home' className="relative bg-gray-900 h-[60vh]">
       <div className="absolute inset-0">
         <img
           src="https://images.unsplash.com/photo-1556906781-9a412961c28c"

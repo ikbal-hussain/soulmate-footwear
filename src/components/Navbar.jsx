@@ -10,7 +10,7 @@ import { ShoppingBag, Menu, X } from 'lucide-react';
         <div className="flex justify-between h-16">
           <div className="flex items-center">
             <ShoppingBag className="h-8 w-8 text-blue-600" />
-            <span className="ml-2 text-xl font-bold text-gray-900">Soulmate Exclusive</span>
+            <span className="ml-2 text-xl font-bold text-gray-900">Soulmate Miland</span>
           </div>
           
           <div className="hidden md:flex items-center space-x-8">

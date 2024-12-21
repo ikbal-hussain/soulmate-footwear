@@ -2,7 +2,8 @@ import React from 'react';
 
  function Hero() {
   return (
-    <div id='home' className="relative bg-gray-900 h-[60vh]">
+    <div id='home
+    ' className="relative bg-gray-900 h-[60vh]">
       <div className="absolute inset-0">
         <img
           src="https://images.unsplash.com/photo-1556906781-9a412961c28c"
@@ -12,10 +13,10 @@ import React from 'react';
       </div>
       <div className="relative max-w-7xl mx-auto py-24 px-4 sm:py-32 sm:px-6 lg:px-8">
         <h1 className="text-4xl font-extrabold tracking-tight text-white sm:text-5xl lg:text-6xl">
-          Soulmate Exclusive Footwear
+          Soulmate Miland
         </h1>
         <p className="mt-6 text-xl text-gray-300 max-w-3xl">
-          Discover your perfect pair from our exclusive collection of premium sportswear and athletic shoes.
+          Where Fashion Meets Feelings
         </p>
         <div className="mt-10">
           <a

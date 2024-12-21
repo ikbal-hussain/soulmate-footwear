@@ -13,7 +13,7 @@ export const products = [
   {
     id: '2',
     name: 'Adidas Ultraboost',
-    price: 699,
+    price: 799,
     // image: 'https://img.freepik.com/free-photo/men-shoes_1203-8652.jpg?semt=ais_hybrid',
     image: 'p2.png',
     category: 'Running',
@@ -22,7 +22,7 @@ export const products = [
   {
     id: '3',
     name: 'Puma RS-X',
-    price: 499,
+    price: 799,
     image: 'p6.png',
     category: 'Lifestyle',
     description: 'Retro-inspired chunky sneakers with modern comfort'

@@ -28,15 +28,15 @@ import { Facebook, Instagram, Twitter,  } from 'lucide-react';
           <div>
             <h3 className="text-lg font-semibold mb-4">Follow Us</h3>
             <div className="flex space-x-4">
-              <a href="https://www.facebook.com" target="_blank" rel="noopener noreferrer" className="text-gray-400 hover:text-white">
+              <a href="https://www.facebook.com/THEROYELBENCHER" target="_blank" rel="noopener noreferrer" className="text-gray-400 hover:text-white">
                 <Facebook className="h-6 w-6" />
               </a>
-              <a href="https://www.instagram.com" target="_blank" rel="noopener noreferrer" className="text-gray-400 hover:text-white">
+              <a href="https://www.instagram.com/soulmate_miland?igsh=MXVtOGVqdG9rY280Yg==" target="_blank" rel="noopener noreferrer" className="text-gray-400 hover:text-white">
                 <Instagram className="h-6 w-6" />
               </a>
-              <a href="https://twitter.com" target="_blank" rel="noopener noreferrer" className="text-gray-400 hover:text-white">
+              {/* <a href="https://twitter.com" target="_blank" rel="noopener noreferrer" className="text-gray-400 hover:text-white">
                 <Twitter className="h-6 w-6" />
-              </a>
+              </a> */}
              
             </div>
           </div>
